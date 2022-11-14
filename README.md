@@ -19,7 +19,7 @@ NEUMRE-projekt:
 |   README.md  
 |   main.ipynb  
 |---widerface/  
-    |---wider_face_split/  
-    |---WIDER_test/  
-    |---WIDER_train/  
-    |---WIDER_val/  
+|   |---wider_face_split/  
+|   |---WIDER_test/  
+|   |---WIDER_train/  
+|   |---WIDER_val/  
