@@ -14,12 +14,12 @@ Skup oznaka: https://shuoyang1213.me/WIDERFACE/support/bbx_annotation/wider_face
 Te skupove treba raspakirati u direktorij projekta, točnije u folder "widerface" unutar projektnog direktorija. 
 Tada bi direktorij trebao izgledati ovako:
 
-NEUMRE-projekt:
-    .git
-    README.md
-    main.ipynb
-    widerface/
-        wider_face_split/
-        WIDER_test/
-        WIDER_train/
-        WIDER_val/
+NEUMRE-projekt:  
+    .git  
+    README.md  
+    main.ipynb  
+    widerface/  
+        wider_face_split/  
+        WIDER_test/  
+        WIDER_train/  
+        WIDER_val/  
